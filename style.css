@@ -477,7 +477,7 @@ img {
 
 
 
-@media(max-width :800px) {
+@media (min-width:450px) and (max-width :800px) {
 
     .container{
         width:97%;
